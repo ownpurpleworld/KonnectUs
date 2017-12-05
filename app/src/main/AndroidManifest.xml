@@ -3,6 +3,7 @@
           package="com.example.konnectus">
     <uses-permission android:name="android.permission.WAKE_LOCK" />
     //permission to let music playback when the user device become's to idle
+    //I added a comment in Manifest
     <application
             android:allowBackup="true"
             android:icon="@mipmap/ic_launcher"
